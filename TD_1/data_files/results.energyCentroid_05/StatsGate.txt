@@ -1,0 +1,23 @@
+# NumberOfRun = 298
+# NumberOfEvents = 90497490
+# NumberOfTracks = 529244699
+# NumberOfSteps = 53601765039
+# NumberOfGeometricalSteps = 49493549226
+# NumberOfPhysicalSteps = 4108215813
+# ElapsedTimeWoInit = 149533.73300000007
+# ElapsedTime = 154051.564
+# StartDate = Sat Sep 10 13:55:10 2022
+# EndDate = Sat Sep 10 14:20:11 2022
+# NumberOfMergedJobs = 298
+# MeanPPS = 587.4493426110233
+# MeanElapsedTime = 516.9515570469799
+# MinElapsedTime = 352.421
+# MaxElapsedTime = 1464.54
+# Speedup = 102.63262091938708
+This file was file number 21
+
+This file was file number 021
+
+This file was file number 21 of 25
+
+This file was file number 21 of 25
